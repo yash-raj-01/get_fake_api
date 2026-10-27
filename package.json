@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/yash-raj-01/get_fake_api/issues"
   },
-  "homepage": "https://github.com/yash-raj-01/get_fake_api#readme"
+  "homepage": "https://github.com/yash-raj-01/get_fake_api#readme",
+  "dependencies": {
+    "get-fake-api": "^0.0.0-stage"
+  }
 }
