@@ -1,0 +1,25 @@
+{
+  "name": "get-fake-api",
+  "version": "1.0.0",
+  "description": "Zero-dependency, offline mock data generator for developers to test, prototype, and build UI applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mock",
+    "fake-api",
+    "fake-data",
+    "dummy-data",
+    "mock-data",
+    "testing",
+    "prototype",
+    "offline-api",
+    "users",
+    "products",
+    "posts",
+    "orders"
+  ],
+  "author": "yashraj",
+  "license": "MIT"
+}
