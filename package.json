@@ -21,5 +21,13 @@
     "orders"
   ],
   "author": "yashraj",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash-raj-01/get_fake_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yash-raj-01/get_fake_api/issues"
+  },
+  "homepage": "https://github.com/yash-raj-01/get_fake_api#readme"
 }
